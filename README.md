@@ -1,4 +1,4 @@
-#🔍 Search Algorithms in DSA
+#<h1>🔍 Search Algorithms in DSA</h1><br>
 This repository provides clean and efficient implementations of two fundamental search algorithms used in Data Structures and Algorithms:
 
 <h1>1. 🔢 Linear Search</h1>
